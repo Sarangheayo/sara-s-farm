@@ -1,11 +1,13 @@
+<p align="center">Welcome to Sara's farm! Enjoy watching my pets grow together.</p>
+
 <div align="center">
   <a href="https://github.com/Sarangheayo">
     <img src="https://render.gitanimals.org/lines/Sarangheayo?pet-id=1" width="1000" height="140" alt="gitanimals line"/>
   </a>
 </div>
 
-내 펫 보러가기
-https://render.gitanimals.org/users/Sarangheayo
+펫 키우러 가기
+https://www.gitanimals.org/
 
 <img src="https://render.gitanimals.org/farms/Sarangheayo" width="800"/>
 
