@@ -1,4 +1,4 @@
-<p align="center">Welcome to Sara's farm! Enjoy watching my pets grow together.</p>
+<p align="center">Welcome to Sarah's farm! Enjoy watching my pets grow together.</p>
 
 <div align="center">
   <a href="https://github.com/Sarangheayo">
